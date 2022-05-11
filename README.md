@@ -1,0 +1,5 @@
+- 👋 Hola!, Soy @CandeCeruse
+- 👀 Estoy interesada en el diseño 3D y la programación.
+- 🌱 Actualmente estudio Ingeniería en Computación en la UNRN
+- 💞️ I’m looking to collaborate on ...
+- 📫 Para contactarme: cerusecandelaria@gmail.com
