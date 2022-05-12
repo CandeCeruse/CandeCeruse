@@ -7,3 +7,4 @@ Y tengo conocimiento en C++ y Python!
 - 🤖 Me gustan los videojuegos y me encantaría trabajar en el futuro
 con algo relacionado a ellos. 🎮
 - 📫 Para contactarme: cerusecandelaria@gmail.com
+![Badge](https://bit.ly/icom-badge)
